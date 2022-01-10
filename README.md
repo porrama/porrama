@@ -4,6 +4,6 @@
 - 🌱 I’m interested in 5G technology and Python programming.
 
 In this site, I share my project files with the documentation. <br/>
-Finally, I hope that they will be beneficial to you.
+I hope that they will be beneficial to you.
 
 Thanks for Watching. 🙏
